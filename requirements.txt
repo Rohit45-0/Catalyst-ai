@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+python-dotenv
+pydantic
+pydantic-settings
+passlib[bcrypt]
+python-jose[cryptography]
+email-validator
+python-multipart
+requests
+
+# Agent dependencies
+openai
+langchain
+langchain-core
+langchain-openai

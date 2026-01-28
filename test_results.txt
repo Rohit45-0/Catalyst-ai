@@ -1,0 +1,7 @@
+Health Check: 200 - {'status': 'ok'}
+
+Login: 401
+{
+  "detail": "Incorrect email or password"
+}
+
